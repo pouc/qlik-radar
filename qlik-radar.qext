@@ -1,1 +1,1 @@
-{"name":"qlik-radar","description":"Radar chart for Qlik Sense","type":"visualization","version":"1.0.2","icon":"extension","author":"pouc","homepage":"","keywords":"qlik-sense, visualization","license":"GPL v3","repository":"","dependencies":{"qlik-sense":">=3.0.x"}}
+{"name":"qlik-radar","description":"Radar chart for Qlik Sense","type":"visualization","version":"1.0.2","icon":"extension","author":"pouc","homepage":"https://github.com/pouc/qlik-radar","keywords":"qlik-sense, visualization","license":"GPL v3","repository":"","dependencies":{"qlik-sense":">=3.0.x"}}
